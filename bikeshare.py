@@ -3,6 +3,10 @@ import datetime
 import pandas as pd
 import statistics as st
 
+"""
+Importing required libraries
+"""
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
